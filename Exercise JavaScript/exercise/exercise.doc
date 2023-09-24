@@ -1,0 +1,27 @@
+<html><meta http-equiv="Content-Type" content="text/html; charset=Windows-1252"><body><p>
+	Three employees are working in the reception all day. Each of them can handle a different number of students per hour. Your task is to calculate how much time it will take to answer all the questions of a given number of students.</p>
+<div dir="auto">
+	First, you will receive 3 lines with integers, representing the number of students that each employee can help per hour. On the following line, you will receive students count as a single integer.&nbsp;</div>
+<div dir="auto">
+	Every fourth hour, all employees have a break, so they don&#39;t work for an hour. It is the only break for the employees, because they don&#39;t need rest, nor have a personal life. Calculate the time needed to answer all the student&#39;s questions and print it in the following format: &quot;Time needed: {time}h.&quot;</div>
+<div dir="auto">
+	&nbsp;</div>
+<div dir="auto">
+	Input</div>
+<div dir="auto">
+	5</div>
+<div dir="auto">
+	6</div>
+<div dir="auto">
+	4</div>
+<div dir="auto">
+	20</div>
+<div dir="auto">
+	&nbsp;</div>
+<div dir="auto">
+	Output:</div>
+<div dir="auto">
+	Time needed: 2h.</div>
+<div dir="auto">
+	&nbsp;</div>
+</body></html>
